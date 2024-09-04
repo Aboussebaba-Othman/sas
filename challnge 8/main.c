@@ -14,7 +14,7 @@ int main()
 
     printf("Veuillez entrer les %d éléments du tableau :\n", n);
     for (i = 0; i < n; i++) {
-        printf(" tableau[%d]  : ",i+1);
+        printf(" tableau[%d]  : ",i);
         scanf("%d", &tableau[i]);
     }
      printf("entre le facteur de multiplication");
