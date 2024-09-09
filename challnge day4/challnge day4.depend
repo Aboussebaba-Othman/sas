@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725637445 source:c:\users\youcode\downloads\sas\challnge day4\main.c
+	<stdio.h>
+	<stdlib.h>
+
